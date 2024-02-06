@@ -1,0 +1,24 @@
+.dssv {
+    border-collapse: collapse;
+  }
+  
+  /* .dssv .hoa {
+    background-color: pink;
+  } */
+  
+  .dssv tr:nth-child(2n + 1) {
+    background-color: chocolate;
+  }
+  
+  .dssv tr:nth-child(2n) {
+    background-color: floralwhite;
+  }
+  
+  tr:first-child {
+    color: olive;
+  }
+  
+  tr:last-child {
+    color: bisque;
+  }
+  
